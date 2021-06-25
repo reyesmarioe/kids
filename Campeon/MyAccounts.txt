@@ -27,6 +27,17 @@ Twitch
 Tablet
 	User:	carlosereyes10@gmail.com
 	Pass:	Titanic41912
+
 Google Account
 	User:	carlosereyes10@gmail.com
 	Pass:	Pacman10
+
+Windows Computer Gamer
+	User:	CarlosGamer
+	Pass:	<no_pass_required>
+
+Windows Computer School
+	User:	carlosereyes@gmail.com
+	Pass:	Titanic141912
+	Pin:	12032010
+	
